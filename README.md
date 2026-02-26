@@ -87,8 +87,3 @@ T1078, T1531
 -   Email alert automation
 -   Active response configuration
 -   Log forwarding to external SOC tools
-
-## Author
-
-Vaibhav Sabherwal\
-Final Year Computer Science and Engineering Student
